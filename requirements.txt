@@ -3,4 +3,4 @@ selenium==4.1.0
 pyfiglet==0.8.post1
 termcolor==1.0.0
 validators==0.18.2
-cryptography==46.0.6
+cryptography==46.0.7
