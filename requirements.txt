@@ -1,4 +1,4 @@
-Pillow==9.2.0
+Pillow==9.4.0
 selenium==4.1.0
 pyfiglet==0.8.post1
 termcolor==1.0.0
